@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"si.feri.opj.Hristovski.Hiking","l":"Kraj"},{"p":"si.feri.opj.Hristovski.Hiking","l":"Plezalec"},{"p":"si.feri.opj.Hristovski.Hiking","l":"Plezalisce"},{"p":"si.feri.opj.Hristovski.Hiking","l":"PlezalnaSmer"},{"p":"si.feri.opj.Hristovski.Hiking","l":"PlezalniCenter"}];updateSearchResults();
